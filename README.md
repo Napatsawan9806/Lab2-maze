@@ -1,13 +1,11 @@
-### ตัวอย่าง: แบบเลียบกำแพงซ้ายของแมพ  
-[![Left Wall Following](https://img.youtube.com/vi/LEFT_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=LEFT_VIDEO_ID)
+### ตัวอย่าง แบบเลียบกำแพงซ้ายของแมพ  
+[![Left Wall Following](https://img.youtube.com/vi/JhTG65Doav0/0.jpg)](https://www.youtube.com/watch?v=JhTG65Doav0)
 
+### ตัวอย่าง แบบเลียบกำแพงขวาของแมพ  
+[![Right Wall Following](https://img.youtube.com/vi/Tb_xd7OpwnI/0.jpg)](https://www.youtube.com/watch?v=Tb_xd7OpwnI)
 
-### ตัวอย่าง: แบบเลียบกำแพงขวาของแมพ  
-[![Right Wall Following](https://img.youtube.com/vi/RIGHT_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=RIGHT_VIDEO_ID)
-
-### ตัวอย่าง: แบบเริ่มมาไม่เจอกำแพงด้านไหนเลยจะเดินตรง  
-[![Straight at Start](https://img.youtube.com/vi/STRAIGHT_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=STRAIGHT_VIDEO_ID)
-
+### ตัวอย่าง แบบเริ่มมาไม่เจอกำแพงด้านไหนเลยจะเดินตรง  
+[![Straight Movement](https://img.youtube.com/vi/997iP3TYkYc/0.jpg)](https://www.youtube.com/watch?v=997iP3TYkYc)
 
 ---
 # Adaptive Wall-Following Robot (Webots Simulation)
