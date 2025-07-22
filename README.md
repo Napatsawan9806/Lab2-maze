@@ -18,7 +18,7 @@
 ---
 
 
-![MAP](source/img)
+![MAP](source/img.png)
 
 
 ## ทำไมต้องสร้างแมพแบบนี้ (Maze Design Rationale)
