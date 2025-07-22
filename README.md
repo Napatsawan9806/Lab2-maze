@@ -17,6 +17,10 @@
 
 ---
 
+
+![MAP](source/img)
+
+
 ## ทำไมต้องสร้างแมพแบบนี้ (Maze Design Rationale)
 
 ### จุดประสงค์ของ Maze Layout
