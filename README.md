@@ -134,38 +134,6 @@ if wall_follow_mode is None:
 
 #### 2. **Left Wall Following State Machine:**
 
-**State Diagram:**
-```
-        front_wall
-    ┌─────────────────┐
-    │                 │
-    ▼                 │
-┌──────────────┐     │    no_left_wall
-│  turn_right  │     │  ┌──────────────┐
-│              │◄────┼──┤              │
-│ L: max_speed │     │  │  turn_left   │
-│ R: -max_speed│     │  │              │
-└──────────────┘     │  │ L: max_speed/8│
-    │                │  │ R: max_speed  │
-    │ no_front_wall  │  └──────────────┘
-    ▼                │         ▲
-┌──────────────┐     │         │
-│drive_forward │     │         │ no_left_wall
-│              │─────┘         │
-│ L: max_speed │               │
-│ R: max_speed │               │
-└──────────────┘               │
-    │                          │
-    │ left_corner              │
-    ▼                          │
-┌──────────────┐               │
-│ steer_right  │───────────────┘
-│              │
-│ L: max_speed │
-│ R: max_speed/8│
-└──────────────┘
-```
-
 **Priority-based State Selection:**
 ```python
 # Left Wall Following - Priority Order (สูงสุดไปต่ำสุด)
