@@ -1,15 +1,16 @@
-### ตัวอย่าง แบบเลียบกำแพงซ้ายของแมพ
+### ตัวอย่าง: แบบเลียบกำแพงซ้ายของแมพ  
+[![Left Wall Following](https://img.youtube.com/vi/LEFT_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=LEFT_VIDEO_ID)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JhTG65Doav0?si=7FDg8fh4YfWpLNdK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### ตัวอย่าง แบบเลียบกำแพงขวาของแมพ
+### ตัวอย่าง: แบบเลียบกำแพงขวาของแมพ  
+[![Right Wall Following](https://img.youtube.com/vi/RIGHT_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=RIGHT_VIDEO_ID)
 
-<iframe width="560" height="315" src="http://www.youtube.com/watch?v=Tb_xd7OpwnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### ตัวอย่าง: แบบเริ่มมาไม่เจอกำแพงด้านไหนเลยจะเดินตรง  
+[![Straight at Start](https://img.youtube.com/vi/STRAIGHT_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=STRAIGHT_VIDEO_ID)
+
+
+---
 # Adaptive Wall-Following Robot (Webots Simulation)
-
-### ตัวอย่าง แบบเริ่มมาไม่เจอกำแพงด้านไหนเลยจะเดินตรง
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/997iP3TYkYc?si=fMNYxi3ZZP7aQoJW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 โปรเจคนี้จำลองการทำงานของหุ่นยนต์ **differential drive robot** ที่ใช้อัลกอริธึม **adaptive wall-following** ใน Webots โดยใช้ **infrared proximity sensors** และ **wheel encoder-based odometry** หุ่นยนต์สามารถตัดสินใจเลือกติดตาม left wall หรือ right wall ได้เองตามสถานการณ์รอบข้าง
 
