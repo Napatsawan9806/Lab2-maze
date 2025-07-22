@@ -1,4 +1,7 @@
-# Lab2-maze
+# Fantatic 4
+
+<img width="1077" height="777" alt="image" src="https://github.com/user-attachments/assets/e6a1ac87-c043-426c-ac45-b13a8b134895" />
+
 
 map นี้มีขนาด 3 x 3 เมตร มีผนัง (สีขาว) เป็นตัวกั้นทางเดินแบบชัดเจน
 
